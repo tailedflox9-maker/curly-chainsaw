@@ -57,7 +57,7 @@ const ThankYouScreen: React.FC = () => {
                 <p className="text-base md:text-lg text-gray-700">
                     With Love,
                     <br />
-                    The Ugale & Wankhade Families
+                    The Ugle & Wankhede Families
                 </p>
 
                 <div className="flex flex-col sm:flex-row justify-center gap-4 mt-10">
